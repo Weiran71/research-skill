@@ -1,6 +1,6 @@
 # research-skill
 
-> 面向产品经理的 AI 深度产品调研技能 for Claude Code
+> 面向产品经理、开发者、用户的关于任何产品、Githubu项目的深度调研分析skill
 
 ## 这不是"帮你搜一搜、总结一下"的工具
 
